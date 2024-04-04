@@ -1,4 +1,7 @@
 #### Hi
+
+I go by several abbreviations of my nickname, most commonly blong or belohnung.
+
 I'm currently working with and learning about eBPF (XDP) and DPDK / VPP.
 
 Most of my development resides on private gitlab instances.
