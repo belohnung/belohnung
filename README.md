@@ -1,6 +1,6 @@
 #### Hi
 
-I go by several abbreviations of my nickname, most commonly blong or belohnung.
+I go by several abbreviations of my nickname, most commonly blong, bl0ng or belohnung.
 
 I'm currently working with and learning about eBPF (XDP) and DPDK / VPP.
 
