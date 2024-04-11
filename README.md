@@ -13,6 +13,8 @@ Interests include:
  * Metrics / Data visualisation
  * Data science / analysis
 
+If you need to contact me i'd prefer you do so via matrix: @blong:matrix.mreow.de
+
 
 #### My Discord (ugh) status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396086395652800513)](https://discord.com/users/396086395652800513)
